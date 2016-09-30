@@ -5,7 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "1.7.145"]
-                 [net.drib/mrhyde "0.5.4-SNAPSHOT"]]
+                 [net.drib/mrhyde "0.5.5"]]
   :min-lein-version "2.0.0"
   :source-paths ["src/cljs"]
 
